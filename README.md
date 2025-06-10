@@ -1,3 +1,3 @@
 my first sipp class
 <br>
-author - anurag gupta
+author - anurag gupta (GLA)
